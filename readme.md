@@ -1,3 +1,9 @@
+# La cuisine d'Eri
+
+Japanese cooking and cooking in Japan
+
+[https://plaublin.github.io/japanese-recipes/](https://plaublin.github.io/japanese-recipes/)
+
 # Chowdown
 
 A simple, plaintext recipe database for hackers
