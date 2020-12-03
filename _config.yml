@@ -2,11 +2,10 @@
 title: La cuisine d'Eri
 #email: your-email@domain.com
 description: Japanese cooking and cooking in Japan
-baseurl: https://plaublin.github.io/japanese-recipes"
+baseurl: "https://plaublin.github.io/japanese-recipes"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-#twitter_username: clarklab
 github_username:  plaublin
 
 # Build settings
