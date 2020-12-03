@@ -1,13 +1,13 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+title: La cuisine d'Eri
+#email: your-email@domain.com
+description: Japanese cooking and cooking in Japan
+baseurl: https://plaublin.github.io/japanese-recipes"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+#twitter_username: clarklab
+github_username:  plaublin
 
 # Build settings
 markdown: kramdown
