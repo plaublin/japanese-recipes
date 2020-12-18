@@ -15,12 +15,12 @@ ingredients:
 - grated cheese
 
 directions:
-- Cut the onion, bell pepper, mushroom and sausages in slices
-- Spread the pizza sauce on the bread
-- Add, in order, the onion, bell pepper, mushroom and sausages
-- Spread with grated cheese
-- Bake for 5 minutes (depending on your oven or grill)
-- Enjoy! 
+- cut the onion, bell pepper, mushroom and sausages in slices
+- spread the pizza sauce on the bread
+- add, in order, the onion, bell pepper, mushroom and sausages
+- spread with grated cheese
+- bake for 5 minutes (depending on your oven or grill)
+- enjoy! 
 
 ---
 
