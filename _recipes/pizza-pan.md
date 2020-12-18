@@ -25,5 +25,5 @@ directions:
 ---
 
 For 2 pizza pan.
-The pizza sauce includes tomato, onion, garlic, origan, basil, pepper, salt and
+The pizza sauce includes tomato, onion, garlic, origan, basil, pepper, salt. It
 can be found in most of the Japanese supermarkets; same for the small sausages.
