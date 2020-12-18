@@ -10,7 +10,7 @@ ingredients:
 - half a bell pepper
 - mushroom
 - 2 small sausages
-- 2 slices of bread
+- 2 slices of loaf bread
 - pizza sauce
 - grated cheese
 
@@ -25,3 +25,5 @@ directions:
 ---
 
 For 2 pizza pan.
+The pizza sauce includes tomato, onion, garlic, origan, basil, pepper, salt and
+can be found in most of the Japanese supermarkets; same for the small sausages.
