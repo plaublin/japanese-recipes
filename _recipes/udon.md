@@ -30,4 +30,4 @@ directions:
 ---
 
 For 2 persons.
-For tsuyu I use <a href="">umai tare</a>.
+For tsuyu I use <a href="umaitare.html">umai tare</a>.
