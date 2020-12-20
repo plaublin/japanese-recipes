@@ -6,7 +6,7 @@ image: misowakame.jpg
 tags: tofu, miso, soup
 
 ingredients:
-- Tofu
+- tofu (175g)
 - dried wakame
 - miso
 
