@@ -8,7 +8,7 @@ tags: curry
 ingredients:
 - Japanese curry pack
 - 2-3 small potatoes
-- boneless pork meat ("buta bara")
+- 150g boneless pork meat ("buta bara")
 - 1 carrot
 - celery
 - consommé
