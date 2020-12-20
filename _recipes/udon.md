@@ -30,6 +30,4 @@ directions:
 ---
 
 For 2 persons.
-For tsuyu I use umai tare, which comes from the Yamagata prefecture and is very
-good. However it can be a little bit hard to find. There is a Yamagata antenna
-shop in Ginza in Tokyo.
+For tsuyu I use <a href="">umai tare</a>.
