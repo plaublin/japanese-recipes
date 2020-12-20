@@ -15,7 +15,6 @@ directions:
 - add in your recipes for extra taste!
 ---
 
-For 2 persons.
 It comes from the Yamagata prefecture and is very good. However it can be a
 little bit hard to find. There is a Yamagata antenna shop in Ginza in Tokyo,
 and there is also Amazon Japan.
