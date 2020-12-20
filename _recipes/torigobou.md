@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Tori gobou"
-image: IMAGE.jpg
+image: torigobou.jpg
 tags: burdock, shirataki, tsuyu
 
 ingredients:
