@@ -19,7 +19,7 @@ ingredients:
 
 directions:
 - cut the onion in slices
-- add the onion, meat and olive oil in the pan, and heat on small fire until the meat is no longer red
+- add the onion, meat and olive oil in a big pan, and heat on small fire until the meat is no longer red
 - remove the skin and cut the carrot in small slices
 - remove the skin and cut the potatoes in quarters
 - add the carrot and potatoes to the pan
