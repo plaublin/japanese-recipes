@@ -36,6 +36,7 @@ directions:
 ---
 
 For 4 persons.
-I personally use the Jawa curry pack (medium hot).
+I personally use the Java curry pack (medium hot).
 <a href="https://www.youtube.com/watch?v=PMq3mnl9E40">Here</a> is a nice video that explains the recipe.
+Small variant: if you don't add the curry pack (nor the galam masala), then this is a pot-au-feu.
 
