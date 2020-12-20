@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Tofu wakame miso soup"
-image: tofuwasabi.jpg
+image: misowakame.jpg
 tags: tofu, miso, soup
 
 ingredients:
