@@ -18,9 +18,10 @@ directions:
 - put them in a bowl, put a lid on it and leave them in the dark for sleep for 45 minutes (not a joke)
 - cut the fish in small portions (not necessary but it will be easier to serve and eat)
 - cut the garlic in small pieces
+- cut the tomatoes in half
 - in a fry pan, add garlic, olive oil, and the fish
 - fry both sides of the fish
-- add the clams
+- add the clams, then the tomatoes
 - add the cooking sake
 - add 50ml of water
 - put the lid of the fry pan
