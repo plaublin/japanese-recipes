@@ -9,7 +9,7 @@ ingredients:
 - shirataki (a special kind of noodles)
 - 1 burdock root (called gobou)
 - 1 carrot
-- chicken tender ("sasami")
+- 150g chicken tender ("sasami")
 - 50ml cooking sake
 
 directions:

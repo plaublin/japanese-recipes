@@ -9,7 +9,7 @@ ingredients:
 - frozen udon
 - 1 leak
 - 2 eggs
-- chicken tender ("sasami")
+- 150g chicken tender ("sasami")
 - tsuyu (Japanese sauce)
 - cooking sake
 
