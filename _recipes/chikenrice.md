@@ -11,6 +11,7 @@ ingredients:
 - onion
 - garlic
 - olive oil
+- rice
 
 directions:
 - cut the garlic and the onion in small pieces

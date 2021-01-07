@@ -12,6 +12,7 @@ ingredients:
 - garlic
 - olive oil
 - 2 eggs
+- rice
 
 directions:
 - cut the garlic and the onion in small pieces

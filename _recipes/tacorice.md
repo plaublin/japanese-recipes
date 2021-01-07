@@ -12,6 +12,7 @@ ingredients:
 - tomato
 - lettuce
 - olive oil
+- rice
 
 directions:
 - cut the avocado in slices
