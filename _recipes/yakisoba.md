@@ -11,7 +11,7 @@ ingredients:
 - 2 bell peppers
 - 1/4 onion
 - cabbage
-- 150g boneless pork meat ("buta bara")
+- 150g chopped pork meat ("buta goma gire")
 - olive oil
 
 directions:

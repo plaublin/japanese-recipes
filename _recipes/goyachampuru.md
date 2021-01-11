@@ -8,7 +8,7 @@ tags: goya, tofu
 ingredients:
 - tofu (175g)
 - half a bitter melon ("gouya" in Japanese)
-- 150g boneless pork meat ("buta bara")
+- 150g chopped pork meat ("buta goma gire")
 - 1 egg
 - olive oil
 

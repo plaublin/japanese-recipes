@@ -7,7 +7,7 @@ tags: ginger, pork
 
 ingredients:
 - ginger
-- sliced pork loin
+- sliced pork loin ("buta bara")
 - cooking sake
 - tsuyu / tare
 
