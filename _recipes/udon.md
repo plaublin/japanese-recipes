@@ -23,7 +23,7 @@ directions:
 - once cooked (generally takes 3~5 minutes), add tsuyu and stop the fire
 - in a fry pan, fry the leak and sasami with tsuyu
 - once fried, put them inside the udon pan and mix
-- divide the udon, leak and sasami, as well as the juice, inside the serving boals
+- divide the udon, leak and sasami, as well as the juice, inside the serving bowls
 - cut the eggs in two and add them on top of the bowls
 - serve
 
