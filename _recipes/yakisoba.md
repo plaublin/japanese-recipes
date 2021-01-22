@@ -19,6 +19,7 @@ directions:
 - cut the bell peppers and onion in slices
 - cut the cabbage in random chuncks
 - in a fry pan on medium fire, add olive oli, the onion, and the meat
+- add the carrot and bell peppers; cook until the carrots become soft
 - add the cabbage and mix
 - add 60ml of water for each pack of soba (so 180ml of water for 3 packs)
 - add the soba and mix
