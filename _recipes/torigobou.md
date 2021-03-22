@@ -19,7 +19,7 @@ directions:
 - cut the carrot in medium size random pieces
 - remove the skin of the burdock
 - cut the burdock in diagonal and very thin slices
-- keep the burdock and carott in water (in a bowl).
+- keep the burdock and carott in water (in a bowl)
 - cut the chiken in medium size pieces
 - in a fry pan, add oil and fry the chicken a bit
 - once becoming a bit fried, add the carrot and burdock slices
