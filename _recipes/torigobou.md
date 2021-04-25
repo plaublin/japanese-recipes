@@ -11,6 +11,7 @@ ingredients:
 - 1 carrot
 - 150g chicken tender ("sasami")
 - 50ml cooking sake
+- tsuyu / umai tare
 
 directions:
 - boil the shirataki in water for a few minutes
